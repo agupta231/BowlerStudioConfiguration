@@ -6,7 +6,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/agupta231/Modified-Montana.git:new.groovy": [
+      "https://github.com/agupta231/Modified-Montana.git",
+      "new.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.5.9",
